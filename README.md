@@ -1,7 +1,7 @@
 # Workshop: Do zero ao Langflow
 
-- [ ] IA
-- [ ] Github
+- [X] IA
+- [X] Github
 - [ ] Python
 - [ ] Google Colab
 - [ ] OpenAI
