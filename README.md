@@ -2,9 +2,9 @@
 
 - [X] IA
 - [X] Github
-- [ ] Python
-- [ ] Google Colab
-- [ ] OpenAI
-- [ ] Hugging Face
-- [ ] LangChain
-- [ ] LangFlow
+- [X] Python
+- [X] Google Colab
+- [X] OpenAI
+- [X] Hugging Face
+- [X] LangChain
+- [X] LangFlow
