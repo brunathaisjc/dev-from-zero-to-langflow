@@ -16,6 +16,8 @@ O programa busca dois alvos:
     um alvo que existe dentro da lista (alvo_existente);
     e um alvo que não existe (alvo_nao_existente)
 
+A função busca_linear percorre a lista até o tamanho total dela verificando se há algum índice igual à variável existente e nao existente, retornando o valor dela (se encontrar)  e -1 (se não encontrar), respectivamente
+
 '''
 
 def busca_linear(lista, alvo):
